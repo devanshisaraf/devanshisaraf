@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Machine Learning and frontend development enthusiast from India</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning and Javascript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devanshisaraf](https://github.com/devanshisaraf)
 
 - 📫 How to reach me **devanshis.saraf@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Aoi_Eyxjintj2Z3dsmNBWKz7StJtEc3R/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XRzl3XR-MJLLNC7dgMQ0ecEKzW9k_K2j/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
