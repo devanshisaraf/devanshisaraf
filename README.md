@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **devanshis.saraf@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XRzl3XR-MJLLNC7dgMQ0ecEKzW9k_K2j/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10i7t1Aph-wGdjYDX7d_CMqmhg5bP55b9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
